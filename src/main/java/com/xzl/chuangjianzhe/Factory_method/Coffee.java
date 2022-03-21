@@ -1,6 +1,6 @@
-package com.xzl.chuangjianzhe.Factory;
+package com.xzl.chuangjianzhe.Factory_method;
 //抽象咖啡类
-public abstract class  Coffee {
+public abstract class Coffee {
     public abstract  String getName();
 
      public void addsugar(){

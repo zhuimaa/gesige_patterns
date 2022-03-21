@@ -1,4 +1,4 @@
-package com.xzl.chuangjianzhe.Factory;
+package com.xzl.chuangjianzhe.SimpleFactory;
 
 public class CoffeeStore {
     public Coffee orderCoffee(String str) {

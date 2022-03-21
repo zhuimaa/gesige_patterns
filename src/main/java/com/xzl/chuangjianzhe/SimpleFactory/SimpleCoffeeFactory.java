@@ -1,4 +1,4 @@
-package com.xzl.chuangjianzhe.Factory;
+package com.xzl.chuangjianzhe.SimpleFactory;
 //简单咖啡工厂类
 public class SimpleCoffeeFactory {
     public Coffee createCoffee(String value){
